@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning advanced machine learning techniques, particularly for financial analysis and predictive modeling<br>🎯 Goals: Complete my TCC on AI in finance and deepen my knowledge in neural networks<br>🎲 Fun fact: I once spent so much time hunting monsters in *The Witcher 3* that I started checking for monsters in my own house!</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning advanced machine learning techniques, particularly for financial analysis and predictive modeling<br>🎯 Goals: Complete my TCC<br>🎲 Fun fact: I once spent so much time hunting monsters in *The Witcher 3* that I started checking for monsters in my own house!</p>
 
 ###
 
