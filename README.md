@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vitor Muniz and I'm a data science, from Brazil.</p>
+<p align="left">My name is Vitor Muniz, from Brazil.</p>
 
 ###
 
