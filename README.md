@@ -24,10 +24,6 @@
 - ⚡ Interessado em **React, Angular, JavaScript, HTML, CSS, Node.js e Python**  
 - 💡 Sempre buscando aprender novas tecnologias e contribuir para projetos de código aberto
 
-## Estatísticas do GitHub
-
-![Vitor Muniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormunnizz&show_icons=true&theme=radical)
-
 ## Contato
 
 📫 Email: vitormunnizz@gmail.com  
