@@ -26,5 +26,5 @@
 
 ## Contato
 
-📫 Email: vitormunnizz@gmail.com  
+📫 Email: vitormunnizzdev@gmail.com  
 💼 LinkedIn: [linkedin.com/in/vitormunnizz](https://linkedin.com/in/vitormunnizz) 
