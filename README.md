@@ -31,5 +31,5 @@
 
 ## 📬 Contato
 
-📧 Email: **[vitormunnizz@gmail.com](mailto:vitormunnizz@gmail.com)**
-💼 LinkedIn: [linkedin.com/in/vitormunnizz](https://linkedin.com/in/vitormunnizz)
+📧 Email: **[vitormunnizz@gmail.com](mailto:vitormunnnizzz@gmail.com)**
+💼 LinkedIn: [linkedin.com/in/vitormunnizz](https://linkedin.com/in/vitormunnnizzz)
